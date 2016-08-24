@@ -1,0 +1,14 @@
+layout_spectrum: 0.4851064
+typography_spectrum: 0.09361702
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#FDFDFD'
+    - '#121110'
+    - '#91948A'
+    - '#434542'
+    - '#86AF01'
+  rhythmicContrast: 1
+name: Big Island Treehouse
