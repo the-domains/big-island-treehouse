@@ -1,3 +1,20 @@
+typography_spectrum: 0.09361702
+color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FDFDFD'
+    - '#121110'
+    - '#91948A'
+    - '#434542'
+    - '#86AF01'
+  lightness: 0
+layout_spectrum: 0.7191489
+author:
+  email: lv_hakola@yahoo.com
+  name: Levi Hakola
+name: Big Island Treehouse
 collections:
   - index:
       path: /
@@ -10,17 +27,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#FDFDFD'
-    - '#121110'
-    - '#91948A'
-    - '#434542'
-    - '#86AF01'
-  lightness: 0
-typography_spectrum: 0.09361702
-layout_spectrum: 0.7191489
-name: Big Island Treehouse
