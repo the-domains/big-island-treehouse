@@ -7,23 +7,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.5595745
+  lightness: 1
   brandColors:
     - '#FFFFDB'
     - '#011831'
     - '#FEC9BD'
     - '#147F73'
     - '#D68284'
-  rhythmicContrast: 0.4148936
+  rhythmicContrast: 0.6340426
 typography_spectrum: 0.3297872
 navigation:
   - name: YouTube
@@ -32,5 +32,5 @@ navigation:
   - name: About Us
     id: 27c8fc9d-ae6b-47fe-bad9-4edb0c2b20c8
     type: content
-layout_spectrum: 0.1744681
+layout_spectrum: 0.7212766
 name: Big Island Treehouse
