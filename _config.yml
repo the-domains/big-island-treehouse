@@ -1,4 +1,18 @@
-typography_spectrum: 0.09361702
+author:
+  email: lv_hakola@yahoo.com
+  name: Levi Hakola
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
@@ -10,20 +24,6 @@ color:
     - '#434542'
     - '#86AF01'
   lightness: 0
-layout_spectrum: 0.7191489
-author:
-  email: lv_hakola@yahoo.com
-  name: Levi Hakola
+typography_spectrum: 0.09361702
+layout_spectrum: 0
 name: Big Island Treehouse
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
