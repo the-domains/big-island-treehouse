@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-26T23:21:25.046Z'
+datePublished: '2016-08-26T23:21:28.468Z'
 sourcePath: >-
   _posts/2016-08-26-were-brothers-from-hawaii-who-finally-found-a-way-to-get-a.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T23:21:24.726Z'
+dateModified: '2016-08-26T23:21:28.130Z'
 title: About Us
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: were-brothers-from-hawaii-whove-finally-found-a-way-to-ge/index.html
 _type: Blurb
 
