@@ -1,3 +1,16 @@
+layout_spectrum: 0.38574837846681476
+typography_spectrum: 0.07186292670667171
+color:
+  saturation: 0.13252217881381512
+  brandStrength: 0.7626769372727722
+  rhythmicContrast: 0.3802798914257437
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  lightness: 0.9931265185587108
 author:
   email: lv_hakola@yahoo.com
   name: Levi Hakola
@@ -13,18 +26,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0.6340426
-  brandColors:
-    - '#FFFFDB'
-    - '#011831'
-    - '#FEC9BD'
-    - '#147F73'
-    - '#D68284'
-  lightness: 1
-typography_spectrum: 0.1234043
 navigation:
   - name: YouTube
     url: 'https://www.youtube.com/channel/UCKcxuih3-5Ga9vdwPTjyf-Q'
@@ -32,5 +33,4 @@ navigation:
   - name: About Us
     id: 27c8fc9d-ae6b-47fe-bad9-4edb0c2b20c8
     type: content
-layout_spectrum: 0.7212766
 name: Big Island Treehouse
