@@ -16,13 +16,13 @@ collections:
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 1
+  lightness: 0.6617022
   brandColors:
-    - '#FDFDFD'
-    - '#121110'
-    - '#91948A'
-    - '#434542'
-    - '#86AF01'
+    - '#FFFFDB'
+    - '#011831'
+    - '#FEC9BD'
+    - '#147F73'
+    - '#D68284'
   rhythmicContrast: 1
 typography_spectrum: 0.09361702
 navigation:
