@@ -23,7 +23,7 @@ color:
     - '#FEC9BD'
     - '#147F73'
     - '#D68284'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.4148936
 typography_spectrum: 0.3297872
 navigation:
   - name: YouTube
