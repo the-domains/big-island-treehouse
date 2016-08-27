@@ -19,6 +19,9 @@ navigation:
   - name: YouTube
     url: 'https://www.youtube.com/channel/UCKcxuih3-5Ga9vdwPTjyf-Q'
     type: external
+  - name: About Us
+    id: 27c8fc9d-ae6b-47fe-bad9-4edb0c2b20c8
+    type: content
 collections:
   - index:
       path: /
