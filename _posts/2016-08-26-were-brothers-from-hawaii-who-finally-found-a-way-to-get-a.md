@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T22:07:31.502Z'
+datePublished: '2016-08-26T22:13:55.755Z'
 sourcePath: >-
   _posts/2016-08-26-were-brothers-from-hawaii-who-finally-found-a-way-to-get-a.md
 author: []
 via: {}
-dateModified: '2016-08-26T22:07:30.950Z'
+dateModified: '2016-08-26T22:13:54.803Z'
 title: >-
   We're brothers from Hawai’i who’ve finally found a way to get a house in the
   state with some of the most expensive real estate in the country. By building
